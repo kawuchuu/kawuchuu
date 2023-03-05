@@ -1,5 +1,3 @@
-# hi
+# wooo
 
-github have added profile readme's now huh? that's interesting
-
-be sure to checkout firetail, it's kinda cool yeah?
+i'm kat really cool developer of hit music player [firetail](https://github.com/kawuchuu/firetail)! i am still working on it just not publicly!
